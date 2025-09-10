@@ -11,3 +11,6 @@ _____
 ## Дизайн для стенда C++ и Java
 https://docs.google.com/document/d/1ra3y-w90tmDPeKkY8i2LUDE6H9Cqpk3R5-QF64puTUY/edit?usp=drive_link
 _____
+## БД Графы
+https://drive.google.com/drive/folders/1YIl2dtGsEySTuul1_FS4UBe9IytGQPOM?usp=drive_link
+_____
