@@ -14,3 +14,7 @@ _____
 ## БД Графы
 https://drive.google.com/drive/folders/1YIl2dtGsEySTuul1_FS4UBe9IytGQPOM?usp=drive_link
 _____
+## Числовые методы и колаб
+https://docs.google.com/document/d/1CIoeFP4pDQZrfr9yVxB6Swock1BHziGTC8cNxLxMF4w/edit?usp=sharing
+https://colab.research.google.com/drive/1t_WILO803uhEGyr3ncovUng2kU57bAYK?usp=drive_link
+_____
