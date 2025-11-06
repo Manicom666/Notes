@@ -17,5 +17,6 @@ _____
 ## Числовые методы и колаб
 https://docs.google.com/document/d/1CIoeFP4pDQZrfr9yVxB6Swock1BHziGTC8cNxLxMF4w/edit?usp=sharing
 https://colab.research.google.com/drive/1t_WILO803uhEGyr3ncovUng2kU57bAYK?usp=drive_link
-https://docs.google.com/spreadsheets/d/135d1BSpldN29lt79LiuM54ftQc9tggMKkJci_UHSE1E/edit?usp=drivesdk
+https://docs.google.com/spreadsheets/d/135d1BSpldN29lt79LiuM54ftQc9tggMKkJci_UHSE1E/edit?usp=drivesdk - Таблица
+https://docs.google.com/document/d/12dQe42KnNKCkoL30WepLJVD12E0t4Y6-b6ajzKD4-zY/edit?usp=drive_link - МТС
 _____
